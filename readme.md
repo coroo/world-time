@@ -17,7 +17,9 @@ pip3 install hypercorn
 hypercorn main:app --reload
 ```
 ### Run Swagger
+
 Go to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) or another documentation at [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+
 ------
 
 ### World API
